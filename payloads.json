@@ -5,20 +5,9 @@
     "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SX2Installer.elf",
     "source": "https://github.com/Swordpdf/PS5SX2/releases",
     "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SX2Installer.elf",
-    "description": "PS5SX2 installer and updater payload. Use once to install the app; later app updates can be performed from PS5SX2.",
+    "description": "PS5SX2 installer and updater payload. Use to install or update the PS5SX2 app.",
     "last_update": "2026-11-05",
-    "version": "vk-285-190 (PS5SX2 2.40)",
-    "category": "Emulators"
-  },
-  {
-    "name": "PS5SX2 - PS5SXHelper",
-    "filename": "PS5SXHelper.elf",
-    "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SXHelper.elf",
-    "source": "https://github.com/Swordpdf/PS5SX2/releases",
-    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SXHelper.elf",
-    "description": "PS5SX2 disc helper with /data mount; intended for ShadowMount+ 1.7 beta 3.",
-    "last_update": "2026-11-05",
-    "version": "vk-285-190 (PS5SX2 2.40)",
+    "version": "vk-285-190",
     "category": "Emulators"
   },
   {
@@ -27,9 +16,20 @@
     "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SXHelper-no-data-mount.elf",
     "source": "https://github.com/Swordpdf/PS5SX2/releases",
     "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SXHelper-no-data-mount.elf",
-    "description": "PS5SX2 disc helper without /data mount; intended for ShadowMount+ 1.7-beta5fix1 or newer.",
+    "description": "PS5SX2 helper payload for ShadowMountPlus 1.7-beta5fix1 or newer (without the /data mount variant).",
     "last_update": "2026-11-05",
-    "version": "vk-285-190 (PS5SX2 2.40)",
+    "version": "vk-285-190",
+    "category": "Emulators"
+  },
+  {
+    "name": "PS5SX2 - PS5SXHelper",
+    "filename": "PS5SXHelper.elf",
+    "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SXHelper.elf",
+    "source": "https://github.com/Swordpdf/PS5SX2/releases",
+    "source_direct": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SXHelper.elf",
+    "description": "PS5SX2 helper payload. Check the official release notes for the matching ShadowMountPlus version.",
+    "last_update": "2026-11-05",
+    "version": "vk-285-190",
     "category": "Emulators"
   }
 ]
